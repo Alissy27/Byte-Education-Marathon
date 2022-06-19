@@ -5,8 +5,8 @@
 }*/
 body {
     font-family: 'DM Sans', sans-serif;
-    padding-left: 185px;
-   /* max-width: 1070px;*/
+    /*padding-left: 185px;
+     max-width: 1070px;*/
 }
 
 .header__flex, .footer__flex, .about, .subscribe, .plan, .plan__flex {
